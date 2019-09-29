@@ -1,0 +1,271 @@
+
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="UTF-8"/>
+    <meta content='width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=0' name='viewport'/>
+    <meta content='mohamed sherif' name='author'/>
+    <meta content='all' name='robots'/>
+      <meta name="description" content="محمد شريف السيره الذتيه الخاصه بيه ">
+      <meta name="google-site-verification" content="UEn0LlJAC2Qxrkes5GcKfT57-HRQ5q5sRUM1bqwAlVI" />
+
+
+    <title>Mohamed sherif CV</title>
+    <meta name="google-site-verification" content="gqbqcB5wlEPFrZSqFaUbNMr0p57tiq4l9SQ1DLp-xe4" />
+
+    <link rel="shortcut icon" href="100.jpg" type="image/jpg" />﻿
+
+    <!-- google font -->
+    <link href="https://fonts.googleapis.com/earlyaccess/droidarabickufi.css" rel='stylesheet' type='text/css' />
+    <!-- bootstrap -->
+    <link rel="stylesheet" type="text/css" href="css/bootstrap.css"/>
+    <!-- font awesome -->
+    <link rel="stylesheet" type="text/css" href="css/font-awesome.min.css"/>
+    <!-- cv style -->
+    <link rel="stylesheet" type="text/css" href="css/en-cv.css"/>
+    <!-- html5shiv -->
+    <script src="js/html5shiv.min.js"></script>
+    <style>      #bdrs-social {margin:0px auto;width: 300px;}#bdrs-social .bdbox-social a:link,.bdbox-social a:visited{float:left;width:32px;height:32px;margin:0 5px;padding:0;text-indent:-9999em;box-shadow:3px 3px 3px rgba(0,0,0,0.3);background-color:transparent;background-size:100% auto;background-image:url('http://3.bp.blogspot.com/-iqgS6_ZGsWI/VE1SXfAV_qI/AAAAAAAAcXY/AimDpPHiuSc/s1600/BRS01-sosial.png');background-repeat:no-repeat;}#bdrs-social .bdbox-social a:hover,.bdbox-social a:active {box-shadow:3px 3px 7px #333 INSET;}#bdrs-social .bdbox-social a:first-child{margin-left:3px}#bdrs-social .bdbox-social a:last-child{margin-right:0}#bdrs-social .bdrs-rss{background-position:0 0}#bdrs-social .bdrs-goo{background-position:0 -32px}#bdrs-social .bdrs-fac{background-position:0 -64px}#bdrs-social .bdrs-lin{background-position:0 -96px}#bdrs-social .bdrs-tum{background-position:0 -128px}#bdrs-social .bdrs-twi{background-position:0 -160px}#bdrs-social .bdrs-wor{background-position:0 -192px}</style>
+</style>
+
+</head>
+<body>
+    
+    <div class="container">
+        
+        <div class="wrapper">
+            
+            <header>
+                
+                <div class="cv_image">
+                    
+                    <div class="image">
+                        
+                        <img src="images/cv-image.png" alt="image"/>  <!-- الصورة الشخصية -->
+                        
+                    </div>
+                    
+                </div>
+                
+                <div class="name">
+                    
+                    <h1>Mohamed Sherif</h1>
+                    
+                    <div> Trainer SEO.SEM,Web Developer, Marketing and IT</div>
+                    
+                </div>
+                
+            </header>
+            
+            <div class="content">
+                
+                <div class="col-lg-12 kill">
+                    
+                    <div class="col-lg-7 col-md-7 col-sm-7 kill pright">
+                        
+                        <section>
+                            
+                            <h3><span class="fa fa-user"></span>     ABOUT ME</h3>
+                            
+                            <p>
+Mohamed Sherif Web Developer works in e-marketing and it and public speaker</p>
+                            
+                        </section>
+                        
+                        <section>
+                            
+                            <h3><span class="fa fa-graduation-cap"></span>     EDUCATION</h3>
+                            
+                            <p>
+Student at the Faculty of Arts in the second division Department of Geography, Systems and Information at the University of Banha                            </p>
+                            
+                        </section>
+                        
+                        <section>
+                            
+                            <h3><span class="fa fa-star"></span>     EXPERIENCES</h3>
+                            
+                           <h4>2018-2012<h4>
+                            
+                            <p>
+I learned the programming from 8 years ago for details<span style="background-color: yellow;">&nbsp; &nbsp;<a href="http://www.mohamedsherif.ml/2018/10/blog-post_21.html" target="_blank"> Press here </a></span>
+. I worked from 2012 to 2018 on an online freelance in khamsat and upwork web developer
+ 
+                        </p>
+                            
+                            <h4>2016-2013</h4>
+                            
+                            <p>
+I worked in the company MTU for a year for free to learn marketing and iT then the manager walks from the company and held the positions of marketing manager and it     </p>
+                             <h4>2018-2017</h4>
+                              
+                              <p>God willing, the first lecturer for the year 2017 on technology in Ain Shams in the presence of about 4000 thousand people </p>
+                            <h4> 2019-2018</h4>
+                            <p> Work at the Center explained
+                            <span style="background-color: yellow">c++</span>
+                             <span style="background-color: yellow">Html</span>
+                             <span style="background-color: yellow">CSS</span>
+                              <span style="background-color: yellow">C</span>
+
+                             <span style="background-color: yellow">PHP</span>
+                             <span style="background-color: yellow">Javascript</span>
+                             <span style="background-color: yellow">Python</span>
+                             <span style="background-color: yellow">jQuery</span>
+                            </p>
+                            
+                        </section>
+                        
+                        <section>
+                            
+                            <h3><span class="fa fa-certificate"></span>     CERTIFICATES</h3>
+                            
+                            <ul>
+                                
+                             <li>mobile Sites Certification from google </li>
+                                <li>Diploma php / mysql</li>
+                                
+                                <li>Web Design Course</li>
+                                
+                                <li>Microsoft Office Certificate</li>
+                                 <li>English conversational skills</li>
+                                  <li>ccna </li>
+                                <li>iot from google</li>
+                                <li>Network Track from Huawei certification</li>
+                                <li>web developers</li>
+                            </ul>
+                            
+                            
+                            <button onclick="document.getElementById('myImage').src='pic_bulbon.gif'">Turn on the light</button>
+
+      <img id="myImage" src="pic_bulboff.gif" style="width:100px">
+
+      <button onclick="document.getElementById('myImage').src='pic_bulboff.gif'">اTurn off the light</button>
+      
+                                  <h3><span class="fa fa-arrow-right"></span>linkedin</h3>
+
+
+<a href="https://www.linkedin.com/in/mohamedsherif99/"target="_blank"><img src="555.jpg"  alt="linkedin" width="100" height="100" /> </a>
+
+                                  <h3><span class="fa fa-arrow-right"></span>Photos of the certificates</h3>
+                                  <span style="background-color: yellow;">&nbsp; &nbsp;<a href="http://www.mohamedsherif.ml/2019/04/blog-post_2.html" target="_blank">   Press here </a></span>                           
+
+                        </section> 
+
+                    </div>
+                    
+                    <div class="col-lg-5 col-md-5 col-sm-5 kill">
+                        
+                        <section>
+                            
+                            <h3><span class="fa fa-code"></span>     PROGRAMING SKILLS</h3>
+                            
+                            <div class="progbar" style="width:85%;"><span>HTML5</span>100%</div>
+                            
+                            <div class="progbar" style="width:85%;"><span>Css3</span>100%</div>
+                            
+                            <div class="progbar" style="width:85%;"><span>Css</span>100%</div>
+                            <div class="progbar" style="width:85%;"><span>C</span>100%</div>
+                            <div class="progbar" style="width:85%;"><span>PHP</span>100%</div>
+                            
+                            <div class="progbar" style="width:70%;"><span>Javascript</span>90%</div>
+                            
+                            <div class="progbar" style="width:60%;"><span>JQuery</span>80%</div>
+                            
+                            
+                            <h3><span class="fa fa-database"></span>     DATABASE</h3>
+                            
+                            <div class="progbar" style="width:80%;"><span>MySQL</span>80%</div>
+                            
+                            <div class="progbar" style="width:70%;"><span>ACCESS</span>70%</div>
+                            <section>
+                         
+                           <h3><span class="fa fa-arrow-right"></span>  markrting</h3>
+                           
+                                <div class="progbar" style="width:85%;"><span>Marketing by email</span>100%</div>
+                                <div class="progbar" style="width:85%;"><span> Digital Marketing</span>100%</div>
+
+                                <div class="progbar" style="width:85%;"><span>Paid ads</span>100%</div>
+                                <div class="progbar" style="width:85%;"><span>Social Media</span>100%</div>
+                                <div class="progbar" style="width:85%;"><span>SEO Search Engines</span>100%</div>
+                                <div class="progbar" style="width:85%;"><span>Search Engine Marketing(SEM)</span>100%</div>
+                                 <div class="progbar" style="width:85%;"><span>Industrial Marketing</span>100%</div>
+             <h3><span class="fa fa-arrow-left"></span> information technology</h3>
+                           
+                                <div class="progbar" style="width:85%;"><span>Database  </span>100%</div>
+                                <div class="progbar" style="width:80%;"><span>  Database Storage</span>90%</div>
+
+                                <div class="progbar" style="width:85%;"><span>  Computer Science </span>100%</div>
+                                <div class="progbar" style="width:80%;"><span> Network </span>90%</div>
+                                <div class="progbar" style="width:75%;"><span>  Security</span>80%</div>
+                                 <div class="progbar" style="width:70%;"><span> Security check of the computer</span>70%</div>
+                                 <div class="progbar" style="width:85%;"><span>Analysis </span>100%</div>
+                                 <div class="progbar" style="width:85%;"><span>Web Developer And Web Designer </span>100%</div>
+                                 
+                         
+                        </section>
+                            <h3><span class="fa fa-comment"></span>     LANGUAGES</h3>
+                            
+                            <div class="progbar" style="width:70%;"><span>Arbac</span>100%</div>
+                            
+                            <div class="progbar" style="width:60%;"><span>ENGLISH</span>80%</div>
+
+                            
+                            <div class="progbar" style="width:50%;"><span>FRENCH</span>50%</div>
+                            
+                        </section>
+                        
+                        <section>
+                            
+                            <h3><span class="fa fa-arrow-right"></span>     CONTACT ME</h3>
+                            
+                            <div class="contact"><span class="fa fa-phone"></span>01280297404</div>
+                            
+                            <div class="contact"><span class="fa fa-envelope"></span><a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="59343631383434383d2a31382b303f6d6c6d193e34383035773a3634">[email&#160;protected]</a></div>
+                            
+                            <div class="contact"><span class="fa fa-map-marker"></span>Egypt -Benha</div>
+                            
+                            <div class="contact"><span class="fa fa-pencil"></span><a href="http://www.mohamedsherif.ml/">Visit My Blog</a></div>
+                            
+
+                        </section>
+                        
+                    </div>
+                    
+                </div>
+                
+            </div>
+            
+        </div><!-- end wrapper -->
+        
+        <footer>
+ <div id="bdrs-social">
+      <div class="bdbox-social" >
+        <a class="bdrs-goo" href="https://plus.google.com/u/0/117539284096960325109" rel="publisher" target="_blank" title="جوجل بلس+">
+          جوجل بلس+
+        </a>
+        <a class="bdrs-fac" href="https://www.facebook.com/MohamedSherif2018/" rel="nofollow" target="_blank" title="فيس بوك">
+          فيس بوك
+        </a>
+        <a class="bdrs-twi" href="https://twitter.com/sharif199914" rel="nofollow" target="_blank" title="تويتر">
+          تويتر
+        </a>
+        <a class="bdrs-lin" href="https://www.linkedin.com/in/mohamedsherif99/" rel="nofollow" target="_blank" title="LinkedIn">
+          ينكدين
+        </a>
+        <a class="bdrs-tum" href="#" rel="nofollow" target="_blank" title="Tumblr">
+          نعرفكم
+        </a>
+        <a class="bdrs-rss" href="#" rel="external" target="_self" title="RSS Feed">
+        </a>
+      </div>
+    </div>
+
+        </footer>
+        
+    </div> <!-- end container -->
+    
+    <!-- page link -->
+    <a href="arabic.html" class="link1">عربى</a>
+    
+<script data-cfasync="false" src="/cdn-cgi/scripts/5c5dd728/cloudflare-static/email-decode.min.js"></script></body>
+</html>
